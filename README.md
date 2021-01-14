@@ -2,6 +2,14 @@
 
 ![ReactJS Covid-Tracker](https://github.com/pradyumnamahajan52/Covid-Tracker/blob/main/screenshot/covidtracker.png "ReactJS Covid-Tracker")
 
+<p align="center">
+  
+  <a href="#" ><img src="https://img.shields.io/badge/Programming Language- reactjs-brightgreen"> </a>
+  [<img src="https://img.shields.io/github/license/pradyumnamahajan52/tic-tac-toe?color=GREEN">](LICENSE) 
+
+</p>
+
+
 ## <a href="https://www.covidtracker.psmweb.in/" target="_blank">LIVE DEMO</a>
 
 ## Description
