@@ -13,7 +13,7 @@ This is a ReactJS based Covid tracker website.
 #### PROCEDURE:
 - Download the zip folder from Github and unzip it
 Here is the link to download zip 👉
-<a href='https://github.com/CleverProgrammers/react-portfolio'>HERE</a>
+<a href='https://github.com/pradyumnamahajan52/Covid-Tracker'>HERE</a>
 - Open the folder in VS Code
 - Edit <code>public/resumeData.json</code> and add your personal details and projects
 - Open terminal in VS Code
