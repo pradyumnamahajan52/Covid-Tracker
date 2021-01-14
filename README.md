@@ -1,6 +1,6 @@
 # Covid-Tracker
 
-![ReactJS Covid-Tracker](resume-screenshot-naz.png?raw=true "ReactJS Resume Website Template")
+![ReactJS Covid-Tracker](https://github.com/pradyumnamahajan52/Covid-Tracker/blob/main/screenshot/covidtracker.png "ReactJS Covid-Tracker")
 
 ## <a href="https://vigorous-hugle-2928a1.netlify.app" target="_blank">LIVE DEMO</a>
 
