@@ -29,6 +29,10 @@ Here is the link to download zip 👉
 - RUN <code>npm install</code> , this command pulls out all the require node modules
 - RUN <code>npm run build</code>, this command will create a build folder for you
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
 
 ## Credits
 
